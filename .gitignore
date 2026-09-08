@@ -1,0 +1,13 @@
+# Obsidian Workspace (Device-specific state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin Enable/Disable States (Device-specific)
+.obsidian/*-plugins.json
+
+# Specific Plugin Data (Optional, device-specific)
+.obsidian/plugins/
+
+# System/OS Cache Files
+.trash/
+.DS_Store
