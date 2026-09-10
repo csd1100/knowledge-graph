@@ -1,0 +1,1 @@
+- In parallel calls the slowest one affects the final result this is known as tail latency amplification

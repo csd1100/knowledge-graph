@@ -1,0 +1,2 @@
+- [[Response Time]] increases as [[thoroughput]] increases
+- It is better to calculate response times in [[percentiles]] rather than mean / average

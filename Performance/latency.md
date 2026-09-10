@@ -1,0 +1,2 @@
+- When the request is latent
+- either in network delay

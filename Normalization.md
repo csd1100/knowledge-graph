@@ -1,0 +1,2 @@
+- Normalized Data is easier to write but harder / time consuming to query
+- De-normalized Data is easier to query but harder / time consuming to write

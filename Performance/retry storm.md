@@ -1,0 +1,3 @@
+- System is slowed down so client request times out but then client retries the same requests on same overloaded server
+- So it keeps hammering the server
+- [[exponential backoff]]

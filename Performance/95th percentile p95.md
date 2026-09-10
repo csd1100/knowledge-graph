@@ -1,0 +1,2 @@
+- 95th percentile means 5% remaining outlier response times i.e. worst 5%
+- response time thresholds at which 95% of requests are faster than that particular threshold

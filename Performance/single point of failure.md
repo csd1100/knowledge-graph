@@ -1,0 +1,1 @@
+a part of the system when failed entire system fails [[failures]]

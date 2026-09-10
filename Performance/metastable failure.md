@@ -1,0 +1,2 @@
+- System cannot be recovered without restart even after load is reduced
+- i.e. once a system has reached broken state due to overload or other issues it cannot be recovered again without restart

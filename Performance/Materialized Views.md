@@ -1,0 +1,4 @@
+- Speeds up reads
+- Slows down writes
+- Since we do extra operation on write to update the materialized views for faster read times
+- Precomputed views but still **normalized** 

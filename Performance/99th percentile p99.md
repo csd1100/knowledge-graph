@@ -1,0 +1,2 @@
+- 99th percentile means 1% remaining outlier response times i.e. worst 1%
+- response time thresholds at which 99% of requests are faster than that particular threshold
