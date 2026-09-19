@@ -1,0 +1,1 @@
+- Part of DBMS that manages storage and retrieval of data in memory and on disk
