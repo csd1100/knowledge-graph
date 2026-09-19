@@ -1,0 +1,19 @@
+- Database management Systems
+- Uses Client Server Model where DB nodes are servers and applications clients
+- Request come in the form of queries which are defined in query languages
+- Subsystems
+	- Transport
+		- Client Communication (Application Queries)
+		- Cluster Communication (Between Nodes)
+	- Query Processor
+		- Query Parser
+		- Query Optimizer
+	- Execution Engine
+		- Remote execution (use Cluster Communication)
+		- Local execution
+	- [[Storage Engine]]
+		- Transaction Manager
+		- Lock Manager
+		- Access Methods
+		- Buffer Manager
+		- Recovery Manager

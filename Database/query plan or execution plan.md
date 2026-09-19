@@ -1,0 +1,2 @@
+- After query is optimized a plan is generated to execute that query
+- sequence of operations that have to be carried out for its results to be considered complete

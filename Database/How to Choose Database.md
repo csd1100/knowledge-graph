@@ -1,0 +1,19 @@
+- Have clear goal
+- Simulate the expected load and compare performance of multiple options
+- To detect issues have environment as close to production as possible
+- Understand the use case
+	- Schema
+	- Record Size
+	- Number of clients
+	- Types of queries
+	- Access Patterns
+	- Rates of read and write queries
+	- Expected changes in any of above variables
+- Important questions
+	- Does DB supports required queries?
+	- Does this DB handle required amount of data?
+	- How many read and write operations single node can handle?
+	- How many nodes should we have?
+	- How do we expand the cluster size?
+	- What is maintenance process?
+	- 
